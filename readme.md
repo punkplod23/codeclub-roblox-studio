@@ -61,4 +61,5 @@ Let's make sure your computer is listening to you!
 **If you see that message, you just wrote your first line of Lua code! You are ready for Lesson 1.**
 
 CREDIT: Gemini Flash, i used an LLM to make these lessons
+I have only tested as far as lesson 6
 
