@@ -1,5 +1,3 @@
-### 📝 Lesson 2: The Secret Portal
-
 # 🌀 Lesson 2: The Secret Portal
 **The Goal:** Learn how to use an **Event** to move a player from one spot to another instantly.
 
