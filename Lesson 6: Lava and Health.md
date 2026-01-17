@@ -46,7 +46,7 @@ JumpHeight: How high the player can jump.
 
 By coding humanoid.Health = 0, you are telling the game: "This player has run out of life!"
 
-###🏆 Master Challenges
+### 🏆 Master Challenges
 Poison Floor: Change the code to humanoid.Health = humanoid.Health - 20. Now the player can touch the lava 5 times before they reset!
 
 Healing Pad: Can you change the color to Green and make it humanoid.Health = 100? This creates a "Health Recharge" station.
