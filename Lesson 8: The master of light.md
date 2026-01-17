@@ -68,3 +68,7 @@ Professional Roblox builders use these settings to hide the "edge" of the map an
 - ClockTime: Ranges from 0 to 24. 12 is noon, 0 is midnight.
 - Exposure: This is like a camera lens—it makes the whole world brighter or darker.
 
+### 🏆 Master Challenges
+- The Sunset Loop: Can you use a while true do loop to make the sun move slowly across the sky? (Hint: lighting.ClockTime = lighting.ClockTime + 0.1).
+- Health Warning: Can you make the screen turn Red when a player's health is below 30? (Hint: Use the Humanoid.HealthChanged event).
+- The Foggy Forest: Look in the Lighting properties for FogEnd. Can you change that number to 50 to make it super foggy?
