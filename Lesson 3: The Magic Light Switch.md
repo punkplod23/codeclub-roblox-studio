@@ -16,27 +16,28 @@ local switch = script.Parent
 local clickDetector = switch.ClickDetector
 local lightPart = game.Workspace.Light
 
--- This is our "Memory" variable (it starts as true)
 local isLightOn = true
 
 clickDetector.MouseClick:Connect(function()
-    if isLightOn == true then
-        -- If it's on, turn it off!
-        lightPart.Transparency = 1
-        lightPart.CanCollide = false -- You can walk through it!
-        isLightOn = false -- Tell the memory it's now OFF
-        print("The light is now OFF")
-    else
-        -- If it's off, turn it back on!
-        lightPart.Transparency = 0
-        lightPart.CanCollide = true
-        isLightOn = true -- Tell the memory it's now ON
-        print("The light is now ON")
-    end
+	if isLightOn == true then
+		-- TURN OFF
+		lightPart.Transparency = 0.8 -- Ghostly invisible
+		lightPart.Material = Enum.Material.Plastic -- Remove the glow
+		lightPart.Color = Color3.fromRGB(50, 50, 50) -- Make it dark grey
+
+		isLightOn = false
+		print("The light is now OFF")
+	else
+		-- TURN ON
+		lightPart.Transparency = 0 -- Fully solid
+		lightPart.Material = Enum.Material.Neon -- Make it glow!
+		lightPart.Color = Color3.fromRGB(255, 255, 0) -- Bright Yellow
+
+		isLightOn = true
+		print("The light is now ON")
+	end
 end)
 ```
 
 ### 🏆 Master Challenges
 The Sound of Light: Can you make the light turn Red when it's OFF and Green when it's ON?
-
-The Disappearing Bridge: Rename your light "Bridge" and make it a long path. Now you’ve coded a bridge that you can turn on and off!
