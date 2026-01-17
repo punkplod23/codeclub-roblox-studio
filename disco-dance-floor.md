@@ -25,6 +25,7 @@ while true do
     -- This tells the script to wait 0.5 seconds before looping
     task.wait(0.5) 
 end
+```
 
 🏆 Master Challenges
 Hyper-Speed: Can you change task.wait(0.5) to task.wait(0.1)?
