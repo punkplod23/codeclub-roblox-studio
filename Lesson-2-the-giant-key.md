@@ -1,5 +1,5 @@
 ### 📝 Lesson 2: The Giant Key (Keyboard Input)
-```markdown
+
 # ⌨️ Lesson 2: The "G" for Giant Key
 **Goal:** Make your own character grow in size whenever you press a key on your keyboard!
 
