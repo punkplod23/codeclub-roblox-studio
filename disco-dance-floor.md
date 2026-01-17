@@ -66,3 +66,4 @@ Hyper-Speed: Can you change task.wait(0.5) to task.wait(0.1)?
 Neon Glow: Click your floor part, look at the Properties window, and change the Material to Neon.
 
 Secret Message: Change the text inside the print(" ") to say your name!
+
