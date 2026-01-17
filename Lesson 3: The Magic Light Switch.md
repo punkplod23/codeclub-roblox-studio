@@ -41,3 +41,6 @@ end)
 
 ### 🏆 Master Challenges
 The Sound of Light: Can you make the light turn Red when it's OFF and Green when it's ON?
+
+Investigate what RGB means and 255, 255, 0
+
