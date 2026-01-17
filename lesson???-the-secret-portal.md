@@ -35,8 +35,6 @@ end)
 ```
 
 🏆 Master Challenges
-Invisibe Portal: Change the Transparency of the Entrance part to 1. Can you find it now?
-
-The Sound of Science: Add a print message inside the if statement that tells the player where they just landed.
-
-Colorful Travel: See if you can add a line inside the script to change the Entrance color every time someone touches it!
+- Invisibe Portal: Change the Transparency of the Entrance part to 1. Can you find it now?
+- The Sound of Science: Add a print message inside the if statement that tells the player where they just landed.
+- Colorful Travel: See if you can add a line inside the script to change the Entrance color every time someone touches it!
