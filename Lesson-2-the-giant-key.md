@@ -27,4 +27,4 @@ UserInputService.InputBegan:Connect(function(input, chat)
     end
 end)
 ```
-🏆 Challenge: Can you make the "H" key make you tiny? (Hint: Use currentSize - 0.2)
+###🏆 Challenge: Can you make the "H" key make you tiny? (Hint: Use currentSize - 0.2)
