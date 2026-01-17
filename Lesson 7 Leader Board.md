@@ -53,7 +53,8 @@ coin.Touched:Connect(function(hit)
 		coin:Destroy() 
 		print("Point Awarded to " .. player.Name)
 	end
-end)```
+end)
+```
 
 ### How it Works
 - PlayerAdded: This is an event that waits for a person to join the game. The script then "gives" them a folder of stats.
