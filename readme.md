@@ -59,3 +59,6 @@ Let's make sure your computer is listening to you!
 6.  Look at your **Output** window. Did it say your message? 
 
 **If you see that message, you just wrote your first line of Lua code! You are ready for Lesson 1.**
+
+CREDIT: Gemini Flash, i used an LLM to make these lessons
+
