@@ -26,7 +26,7 @@ To use Studio, you must log in with a **Roblox Account**.
 ---
 
 ## 🌕 Step 3: What is "Lua"?
-When we write code in Roblox, we are speaking a language called **Lua**.
+When we write code in Roblox, we are speaking a language called **Lua**. https://www.lua.org/
 
 * **It means "Moon":** In Portuguese, Lua means Moon! 🌑
 * **It's a Translator:** Computers don't speak English. Lua is the "translator" that lets you tell the computer, *"Hey! Make that character jump!"* and the computer understands.
