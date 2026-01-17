@@ -45,3 +45,26 @@ clickDetector.MouseClick:Connect(function()
 end)
 ```
 
+### 🎨 Step 3: Changing the "Vibe" (Color Correction)
+You can use code to make the world look like a specific movie or environment. Try adding this to a button to change the colors:
+
+```lua
+local lighting = game:GetService("Lighting")
+local colorEffect = lighting:FindFirstChild("ColorCorrectionEffect")
+
+-- 🎬 Cinematic Black and White:
+colorEffect.Saturation = -1 
+colorEffect.TintColor = Color3.fromRGB(200, 200, 200)
+
+-- ☢️ Radioactive Wasteland:
+-- colorEffect.Saturation = 2
+-- colorEffect.TintColor = Color3.fromRGB(0, 255, 0)
+```
+
+### 🧠 Why This is a "Pro Skill"
+Professional Roblox builders use these settings to hide the "edge" of the map and make the game feel immersive.
+
+- Bloom: Controls how much "glow" comes off neon parts.
+- ClockTime: Ranges from 0 to 24. 12 is noon, 0 is midnight.
+- Exposure: This is like a camera lens—it makes the whole world brighter or darker.
+
