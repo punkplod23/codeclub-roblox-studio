@@ -66,8 +66,8 @@ I have only tested as far as lesson 6
 Lessons to add long term to finish this module off.
 
 - Creating and importing assets.
-
-Lesson on gameplay.
-
+- Lesson on gameplay.
+- Projectiles and tracking.
+- Users interaction.
 
 
