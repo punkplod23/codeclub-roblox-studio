@@ -1,8 +1,6 @@
 # 🌈 Lesson 8: Master of Light
 **Goal:** Learn how to change the whole world's "vibe" using code and the Lighting service.
 
----
-
 ### 🛠️ Step 1: Setting the Scene
 Before we code, we need to add the "Special Effects" to the game world.
 
@@ -11,10 +9,6 @@ Before we code, we need to add the "Special Effects" to the game world.
     * **BloomEffect** (This makes Neon parts look like they are glowing).
     * **ColorCorrectionEffect** (This lets you change the tint and brightness of the world).
     * **SunRaysEffect** (This adds beautiful "God rays" coming from the sun).
-
-
-
----
 
 ### 💻 Step 2: The Day/Night Switch
 Let’s make a button that switches the game from **Day** to **Night** instantly!
