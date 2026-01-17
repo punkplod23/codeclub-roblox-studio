@@ -65,10 +65,7 @@ I have only tested as far as lesson 6
 
 Lessons to add long term to finish this module off.
 
-- DISCO Ball.
 - Creating and importing assets.
-- Sound design.
-- Shop
 
 Lesson on gameplay.
 
