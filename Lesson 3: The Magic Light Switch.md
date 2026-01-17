@@ -2,10 +2,11 @@
 **Goal:** Learn how to make a "toggle." This is a switch that remembers if a light is ON or OFF.
 
 ### 🛠️ Step 1: Setup
-1. Create a **Part**, name it `Switch`, and make it look like a button.
-2. Add a **ClickDetector** inside the Switch.
-3. Create a second **Part** nearby, name it `Light`, and make the material **Neon**.
-4. Add a **Script** inside the `Switch`.
+1. Open Roblox Studio and start a new Baseplate.
+2. Create a **Part**, name it `Switch`, and make it look like a button.
+3. Add a **ClickDetector** inside the Switch.
+4. Create a second **Part** nearby, name it `Light`, and make the material **Neon**.
+5. Add a **Script** inside the `Switch`.
 
 ### 💻 Step 2: The Logic Code
 We are going to create a **Variable** called `isLightOn`. This is a piece of memory that can be either `true` or `false`.
