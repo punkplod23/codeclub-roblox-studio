@@ -25,6 +25,7 @@ while true do
     -- This tells the script to wait 0.5 seconds before looping
     task.wait(0.5) 
 end
+```
 
 Here are the two lessons formatted as separate Markdown files. You can copy the text inside each box and save them as Lesson1.md and Lesson2.md.
 
