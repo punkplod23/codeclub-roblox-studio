@@ -1,4 +1,4 @@
-# 📡 Lesson 6: The Magic Sensor
+# 📡 Lesson 5: The Magic Sensor
 **Goal:** Learn how to make a part react the second a player steps on it using a "Sensor."
 
 ### 🛠️ Step 1: Setup the Baseplate
