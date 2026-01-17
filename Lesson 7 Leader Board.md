@@ -1,7 +1,6 @@
 # 🏆 Lesson 7: The Leaderboard (Tracking Points)
 **Goal:** Create a list in the top-right corner of the screen that tracks how many "Points" or "Wins" a player has!
 
----
 
 ### 🛠️ Step 1: Where the Script Goes
 This script is special. It doesn't live inside a part; it runs for the whole game the moment someone joins.
@@ -27,7 +26,8 @@ game.Players.PlayerAdded:Connect(function(player)
 	points.Name = "Points" -- This is the name that shows up in the menu!
 	points.Value = 0       -- Everyone starts at zero
 	points.Parent = stats
-end)```
+end)
+```
 
 
 ### 💰 Step 3: Making a "Point Collector"
