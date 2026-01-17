@@ -63,3 +63,13 @@ Let's make sure your computer is listening to you!
 CREDIT: Gemini Flash, i used an LLM to make these lessons
 I have only tested as far as lesson 6
 
+Lessons to add long term to finish this module off.
+
+DISCO Ball.
+Creating and importing assets.
+Sound design.
+
+Lesson on gameplay.
+
+
+
