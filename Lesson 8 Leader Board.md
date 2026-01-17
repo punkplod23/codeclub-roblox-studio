@@ -1,4 +1,4 @@
-# 🏆 Lesson 8: The Leaderboard (Tracking Points)
+# 🏆 Lesson 7: The Leaderboard (Tracking Points)
 **Goal:** Create a list in the top-right corner of the screen that tracks how many "Points" or "Wins" a player has!
 
 ---
